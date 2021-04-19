@@ -1,0 +1,63 @@
+Output of apps with the lowest cost
+
+
+Instance ID: AAS-d283144e-bb0e-474a-98b6-2f3c7f421a09
+Cost: 0
+Date: 29/11/2020
+Meter Category: Azure App Service
+Resource Group: Delaware-deposit-Plastic
+Resource Location EastUS
+Tags: Delaware-deposit-Plastic, Production, Digital
+Unit Of Measure: 1 Hour
+Location: US East
+Service Name: Azure App Service
+
+
+Instance ID: AAS-d283144e-bb0e-474a-98b6-2f3c7f421a09
+Cost: 0
+Date: 30/11/2020
+Meter Category: Azure App Service
+Resource Group: Delaware-deposit-Plastic
+Resource Location EastUS
+Tags: Delaware-deposit-Plastic, Production, Digital
+Unit Of Measure: 1 Hour
+Location: US East
+Service Name: Azure App Service
+
+
+Instance ID: AAS-d283144e-bb0e-474a-98b6-2f3c7f421a09
+Cost: 0
+Date: 13/11/2020
+Meter Category: Azure App Service
+Resource Group: Delaware-deposit-Plastic
+Resource Location EastUS
+Tags: Delaware-deposit-Plastic, Development, Digital
+Unit Of Measure: 1 Hour
+Location: US East
+Service Name: Azure App Service
+
+
+Instance ID: AAS-d283144e-bb0e-474a-98b6-2f3c7f421a09
+Cost: 0
+Date: 14/11/2020
+Meter Category: Azure App Service
+Resource Group: Delaware-deposit-Plastic
+Resource Location EastUS
+Tags: Delaware-deposit-Plastic, Development, Digital
+Unit Of Measure: 1 Hour
+Location: US East
+Service Name: Azure App Service
+
+
+Instance ID: AAS-d283144e-bb0e-474a-98b6-2f3c7f421a09
+Cost: 0
+Date: 15/11/2020
+Meter Category: Azure App Service
+Resource Group: Delaware-deposit-Plastic
+Resource Location EastUS
+Tags: Delaware-deposit-Plastic, Development, Digital
+Unit Of Measure: 1 Hour
+Location: US East
+Service Name: Azure App Service
+
+
